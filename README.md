@@ -2,7 +2,7 @@
 
 This project builds a **prompt simplifier** for enhanced MidJourney prompts. It uses OpenAI's GPT-4o model to reverse engineer complex, high-quality prompts into simple, base-level prompts that a user might have originally typed in a text-to-image model.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/prompt-simplifier/blob/main/prompt_simplifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukibk/generating-llm-training-data/blob/main/Untitled0.ipynb)
 
 ---
 
